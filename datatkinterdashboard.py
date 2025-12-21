@@ -45,3 +45,4 @@ inventory_month_data = {
     "Nov": 450,
     "Dec": 1300
 }
+
